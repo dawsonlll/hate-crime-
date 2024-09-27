@@ -1,0 +1,201 @@
+dates,number_of_hate_crime,occurrence_year,location_type,primary_offence,arrest_made,hour
+2019-03-16,2,2019,Religious Place,Mischief,YES,24
+2023-01-30,1,2023,Public Park,Assault,YES,21
+2023-08-18,2,2023,Commercial,Theft,NO,12
+2021-07-16,2,2021,Residential,Wilful Promotion of Hatred,YES,21
+2018-10-01,1,2018,Public Park,Theft,YES,16
+2023-10-02,1,2023,Religious Place,Fraud,NO,11
+2019-02-06,0,2019,Religious Place,Theft,NO,16
+2022-09-29,0,2022,Commercial,Mischief,YES,5
+2021-09-16,1,2021,Commercial,Theft,NO,16
+2018-01-14,1,2018,Religious Place,Mischief,NO,0
+2018-03-11,2,2018,Public Park,Theft,NO,23
+2021-09-15,0,2021,Religious Place,Theft,NO,3
+2019-12-06,2,2019,Educational Institution,Wilful Promotion of Hatred,NO,11
+2022-06-22,2,2022,Residential,Wilful Promotion of Hatred,YES,22
+2022-10-18,3,2022,Commercial,Theft,NO,12
+2020-10-05,2,2020,Public Park,Mischief,YES,14
+2018-03-08,0,2018,Religious Place,Theft,NO,12
+2019-05-18,0,2019,Commercial,Theft,NO,19
+2022-01-09,1,2022,Commercial,Fraud,NO,4
+2018-08-15,1,2018,Commercial,Fraud,YES,17
+2020-07-07,0,2020,Educational Institution,Mischief,NO,6
+2018-12-09,1,2018,Residential,Fraud,YES,17
+2022-07-12,1,2022,Residential,Mischief,YES,21
+2022-07-01,4,2022,Public Park,Fraud,NO,12
+2023-09-27,0,2023,Religious Place,Fraud,NO,20
+2019-03-09,1,2019,Public Park,Theft,NO,19
+2019-12-19,0,2019,Residential,Fraud,NO,8
+2022-09-06,0,2022,Commercial,Mischief,YES,6
+2023-11-04,0,2023,Religious Place,Wilful Promotion of Hatred,NO,20
+2018-03-16,1,2018,Educational Institution,Mischief,NO,9
+2022-04-08,1,2022,Public Park,Mischief,NO,12
+2022-10-09,0,2022,Residential,Assault,NO,22
+2023-10-18,0,2023,Commercial,Mischief,YES,1
+2023-06-01,1,2023,Public Park,Wilful Promotion of Hatred,YES,7
+2020-10-03,1,2020,Commercial,Mischief,YES,10
+2023-04-09,1,2023,Residential,Fraud,NO,19
+2021-10-16,2,2021,Residential,Theft,YES,4
+2023-12-23,3,2023,Public Park,Theft,NO,11
+2019-05-14,3,2019,Religious Place,Fraud,NO,16
+2019-09-29,1,2019,Educational Institution,Theft,NO,9
+2023-06-14,2,2023,Religious Place,Theft,NO,0
+2020-12-13,1,2020,Religious Place,Wilful Promotion of Hatred,NO,4
+2023-10-24,2,2023,Religious Place,Wilful Promotion of Hatred,NO,7
+2023-02-01,0,2023,Educational Institution,Assault,YES,18
+2019-12-19,0,2019,Commercial,Mischief,YES,24
+2018-10-17,2,2018,Educational Institution,Wilful Promotion of Hatred,NO,3
+2021-07-26,1,2021,Residential,Fraud,NO,15
+2022-07-13,1,2022,Public Park,Theft,YES,7
+2018-03-26,1,2018,Public Park,Fraud,YES,13
+2019-05-29,2,2019,Residential,Mischief,NO,2
+2020-06-06,1,2020,Public Park,Mischief,YES,2
+2019-11-05,0,2019,Residential,Assault,NO,7
+2020-01-04,2,2020,Commercial,Fraud,NO,24
+2021-03-31,0,2021,Educational Institution,Mischief,NO,24
+2023-10-06,0,2023,Commercial,Theft,NO,11
+2021-03-23,2,2021,Religious Place,Mischief,NO,21
+2021-01-12,0,2021,Public Park,Wilful Promotion of Hatred,NO,3
+2023-08-19,2,2023,Religious Place,Wilful Promotion of Hatred,YES,23
+2019-11-03,1,2019,Religious Place,Assault,YES,19
+2018-08-01,1,2018,Residential,Wilful Promotion of Hatred,NO,8
+2023-06-06,1,2023,Educational Institution,Wilful Promotion of Hatred,YES,17
+2023-10-02,1,2023,Educational Institution,Theft,YES,19
+2021-10-14,0,2021,Residential,Assault,YES,16
+2022-01-31,1,2022,Educational Institution,Wilful Promotion of Hatred,NO,9
+2022-10-22,3,2022,Educational Institution,Mischief,NO,9
+2019-05-28,1,2019,Religious Place,Wilful Promotion of Hatred,NO,1
+2020-05-16,4,2020,Commercial,Theft,NO,0
+2022-04-03,1,2022,Residential,Assault,YES,18
+2022-11-09,1,2022,Public Park,Mischief,NO,1
+2019-03-11,2,2019,Educational Institution,Theft,YES,2
+2021-04-20,2,2021,Residential,Wilful Promotion of Hatred,NO,2
+2020-02-25,1,2020,Educational Institution,Fraud,YES,5
+2020-04-14,2,2020,Educational Institution,Theft,NO,18
+2018-03-26,0,2018,Educational Institution,Theft,NO,16
+2023-05-01,3,2023,Religious Place,Fraud,NO,15
+2022-04-25,0,2022,Religious Place,Mischief,NO,10
+2021-05-04,1,2021,Public Park,Assault,YES,19
+2019-11-05,0,2019,Residential,Theft,NO,2
+2019-10-12,0,2019,Residential,Fraud,YES,7
+2021-11-27,1,2021,Educational Institution,Mischief,YES,3
+2020-09-11,1,2020,Religious Place,Fraud,NO,18
+2023-12-08,3,2023,Residential,Wilful Promotion of Hatred,NO,18
+2021-08-30,1,2021,Educational Institution,Fraud,NO,18
+2019-07-13,0,2019,Commercial,Mischief,NO,3
+2021-07-13,1,2021,Commercial,Fraud,YES,4
+2023-02-09,1,2023,Educational Institution,Assault,NO,20
+2023-12-07,1,2023,Educational Institution,Assault,NO,7
+2021-12-29,1,2021,Residential,Mischief,YES,13
+2021-06-15,1,2021,Public Park,Wilful Promotion of Hatred,YES,22
+2022-05-23,0,2022,Educational Institution,Wilful Promotion of Hatred,NO,6
+2018-03-11,1,2018,Residential,Fraud,YES,9
+2021-11-29,4,2021,Residential,Theft,YES,19
+2020-02-15,1,2020,Educational Institution,Assault,YES,17
+2018-01-30,0,2018,Residential,Theft,NO,4
+2018-10-01,3,2018,Public Park,Wilful Promotion of Hatred,YES,24
+2018-12-18,0,2018,Commercial,Mischief,YES,6
+2018-02-13,1,2018,Religious Place,Assault,YES,18
+2023-08-27,0,2023,Commercial,Mischief,NO,2
+2022-09-05,1,2022,Commercial,Fraud,NO,8
+2019-10-23,0,2019,Public Park,Fraud,NO,1
+2022-02-01,2,2022,Commercial,Assault,YES,8
+2023-01-16,1,2023,Religious Place,Mischief,NO,16
+2019-07-05,0,2019,Commercial,Assault,NO,18
+2020-12-21,1,2020,Religious Place,Theft,YES,13
+2018-11-12,1,2018,Religious Place,Fraud,YES,11
+2023-10-15,2,2023,Residential,Wilful Promotion of Hatred,NO,15
+2019-10-30,1,2019,Religious Place,Theft,NO,3
+2019-05-28,1,2019,Public Park,Theft,YES,22
+2021-07-12,2,2021,Residential,Assault,NO,6
+2020-10-05,1,2020,Public Park,Assault,YES,13
+2023-01-29,0,2023,Commercial,Theft,YES,18
+2021-09-03,1,2021,Residential,Theft,NO,16
+2021-08-13,4,2021,Public Park,Theft,NO,10
+2023-04-24,0,2023,Educational Institution,Theft,NO,0
+2022-03-10,0,2022,Religious Place,Assault,NO,22
+2022-08-30,3,2022,Residential,Assault,NO,1
+2020-11-25,4,2020,Public Park,Theft,NO,7
+2022-11-12,4,2022,Public Park,Wilful Promotion of Hatred,YES,3
+2023-12-01,0,2023,Public Park,Fraud,YES,7
+2018-06-10,1,2018,Commercial,Fraud,YES,18
+2022-01-29,1,2022,Public Park,Wilful Promotion of Hatred,YES,7
+2019-10-26,0,2019,Commercial,Mischief,NO,10
+2022-06-15,3,2022,Educational Institution,Mischief,NO,0
+2018-07-26,1,2018,Religious Place,Fraud,NO,12
+2021-12-04,0,2021,Residential,Fraud,NO,12
+2019-01-19,0,2019,Residential,Mischief,YES,24
+2020-12-30,0,2020,Public Park,Mischief,YES,1
+2022-01-21,1,2022,Religious Place,Wilful Promotion of Hatred,NO,9
+2019-01-02,2,2019,Religious Place,Mischief,NO,13
+2020-08-12,0,2020,Public Park,Assault,NO,23
+2022-11-23,1,2022,Educational Institution,Fraud,NO,1
+2023-12-08,1,2023,Public Park,Theft,NO,8
+2021-06-05,0,2021,Educational Institution,Fraud,YES,16
+2022-06-24,0,2022,Residential,Wilful Promotion of Hatred,NO,20
+2018-02-09,1,2018,Religious Place,Wilful Promotion of Hatred,YES,19
+2021-10-03,1,2021,Residential,Fraud,YES,24
+2021-11-04,1,2021,Public Park,Fraud,NO,1
+2020-09-01,1,2020,Educational Institution,Mischief,NO,14
+2020-11-17,3,2020,Commercial,Assault,NO,6
+2019-12-15,0,2019,Residential,Wilful Promotion of Hatred,NO,12
+2022-01-13,0,2022,Religious Place,Assault,YES,15
+2019-11-24,2,2019,Residential,Mischief,NO,4
+2018-11-12,2,2018,Religious Place,Fraud,YES,13
+2020-06-26,1,2020,Commercial,Mischief,NO,23
+2019-11-23,1,2019,Residential,Fraud,NO,0
+2019-07-23,0,2019,Educational Institution,Mischief,NO,8
+2022-10-31,0,2022,Residential,Fraud,NO,4
+2023-08-10,0,2023,Commercial,Mischief,YES,8
+2023-10-05,1,2023,Religious Place,Wilful Promotion of Hatred,YES,2
+2018-04-20,1,2018,Residential,Wilful Promotion of Hatred,NO,20
+2022-11-05,0,2022,Educational Institution,Assault,NO,8
+2019-09-23,1,2019,Educational Institution,Assault,NO,12
+2023-11-03,1,2023,Public Park,Theft,NO,2
+2019-12-04,1,2019,Public Park,Assault,YES,17
+2019-10-22,0,2019,Public Park,Theft,YES,19
+2019-04-19,3,2019,Residential,Mischief,YES,2
+2021-06-18,0,2021,Educational Institution,Wilful Promotion of Hatred,YES,8
+2021-04-10,0,2021,Public Park,Wilful Promotion of Hatred,NO,0
+2018-08-12,2,2018,Public Park,Assault,NO,7
+2020-09-08,0,2020,Commercial,Fraud,YES,13
+2018-09-21,0,2018,Religious Place,Fraud,NO,5
+2019-02-04,0,2019,Religious Place,Assault,YES,2
+2018-06-18,1,2018,Religious Place,Assault,YES,21
+2019-08-02,0,2019,Commercial,Fraud,YES,11
+2019-08-31,3,2019,Educational Institution,Assault,NO,19
+2021-07-19,3,2021,Religious Place,Theft,NO,22
+2021-11-29,0,2021,Public Park,Assault,YES,5
+2023-03-24,2,2023,Religious Place,Fraud,NO,10
+2020-08-30,2,2020,Public Park,Wilful Promotion of Hatred,NO,5
+2020-04-17,1,2020,Religious Place,Fraud,YES,22
+2018-03-13,1,2018,Public Park,Wilful Promotion of Hatred,NO,15
+2022-02-12,2,2022,Educational Institution,Assault,YES,23
+2018-04-14,1,2018,Educational Institution,Wilful Promotion of Hatred,NO,16
+2021-02-09,0,2021,Public Park,Theft,YES,2
+2018-11-13,1,2018,Residential,Assault,NO,24
+2022-06-23,1,2022,Public Park,Fraud,NO,18
+2018-04-30,2,2018,Public Park,Wilful Promotion of Hatred,NO,22
+2020-11-10,0,2020,Public Park,Assault,NO,18
+2023-06-30,1,2023,Educational Institution,Theft,NO,18
+2020-03-25,1,2020,Religious Place,Mischief,YES,11
+2021-11-11,0,2021,Educational Institution,Wilful Promotion of Hatred,YES,23
+2023-07-10,2,2023,Educational Institution,Fraud,YES,2
+2022-07-04,1,2022,Religious Place,Wilful Promotion of Hatred,NO,13
+2020-07-15,0,2020,Public Park,Assault,YES,21
+2019-08-18,1,2019,Religious Place,Wilful Promotion of Hatred,NO,24
+2020-04-23,1,2020,Public Park,Theft,YES,12
+2018-02-24,2,2018,Residential,Theft,NO,23
+2019-04-22,0,2019,Commercial,Wilful Promotion of Hatred,NO,16
+2019-01-20,1,2019,Commercial,Mischief,NO,20
+2023-06-15,1,2023,Educational Institution,Mischief,YES,21
+2019-06-30,2,2019,Religious Place,Wilful Promotion of Hatred,YES,22
+2022-02-13,0,2022,Educational Institution,Assault,YES,21
+2021-05-19,0,2021,Educational Institution,Mischief,YES,16
+2019-12-24,0,2019,Residential,Wilful Promotion of Hatred,YES,21
+2020-11-21,1,2020,Residential,Assault,NO,5
+2021-12-05,1,2021,Religious Place,Wilful Promotion of Hatred,NO,10
+2019-11-27,0,2019,Public Park,Assault,YES,18
+2022-07-26,1,2022,Educational Institution,Assault,NO,19
+2022-06-14,1,2022,Religious Place,Mischief,NO,8
+2019-11-09,1,2019,Public Park,Assault,NO,0
